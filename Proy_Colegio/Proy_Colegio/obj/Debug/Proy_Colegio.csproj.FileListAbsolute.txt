@@ -1,0 +1,24 @@
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II INFOCAL-EA-Mañana-A\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\PRG-II ITBM - Noche-B\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.pdb
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe.config
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.pdb
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.csprojResolveAssemblyReference.cache
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.exe
+E:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.pdb
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe.config
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.exe
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\bin\Debug\Proy_Colegio.pdb
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.csprojResolveAssemblyReference.cache
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.exe
+D:\primer bimestre\prog2\Proy_Colegio\Proy_Colegio\obj\Debug\Proy_Colegio.pdb

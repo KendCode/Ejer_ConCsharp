@@ -1,0 +1,24 @@
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.csprojResolveAssemblyReference.cache
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe.config
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.pdb
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.exe
+F:\EDU\SISTEMAS\proy_Vector\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.pdb
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.csprojResolveAssemblyReference.cache
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.exe
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe.config
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.pdb
+F:\EDU\SISTEMAS\programacicon ll\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.pdb
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe.config
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.pdb
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.csprojResolveAssemblyReference.cache
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.exe
+C:\Users\Strix\Desktop\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.pdb
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe.config
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.exe
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\bin\Debug\proy_figGeo.pdb
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.csprojResolveAssemblyReference.cache
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.exe
+E:\primer bimestre\prog2\proy_figGeo\proy_figGeo\obj\Debug\proy_figGeo.pdb

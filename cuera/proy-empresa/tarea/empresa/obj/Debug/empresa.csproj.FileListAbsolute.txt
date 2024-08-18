@@ -1,0 +1,24 @@
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.exe.config
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.exe
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.pdb
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.exe
+C:\Users\jota\Documents\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.pdb
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.exe.config
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.exe
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\bin\Debug\empresa.pdb
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.exe
+D:\primer bimestre\prog2\practica2\proy-empresa\empresa\empresa\obj\Debug\empresa.pdb
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\bin\Debug\empresa.exe.config
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\bin\Debug\empresa.exe
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\bin\Debug\empresa.pdb
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\obj\Debug\empresa.exe
+D:\primer bimestre\prog2\cuera\proy-empresa\empresa\empresa\obj\Debug\empresa.pdb
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\bin\Debug\empresa.exe.config
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\bin\Debug\empresa.exe
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\bin\Debug\empresa.pdb
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\obj\Debug\empresa.csprojResolveAssemblyReference.cache
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\obj\Debug\empresa.exe
+E:\programacion 2\cuera\proy-empresa\tarea\empresa\obj\Debug\empresa.pdb

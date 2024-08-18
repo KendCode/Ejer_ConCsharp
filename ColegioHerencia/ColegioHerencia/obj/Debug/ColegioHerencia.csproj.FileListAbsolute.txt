@@ -1,0 +1,24 @@
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe.config
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.pdb
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.csprojResolveAssemblyReference.cache
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.exe
+C:\Users\PC-1\Desktop\ProyectoEstudiantes\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.pdb
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.csprojResolveAssemblyReference.cache
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.exe
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.pdb
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe.config
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe
+C:\Users\PC-1\Desktop\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.pdb
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.csprojResolveAssemblyReference.cache
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.exe
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe.config
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.pdb
+F:\BOLIVIAMAR\Segundo Año\Programacion II\SegundoBimestre\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.pdb
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.csprojResolveAssemblyReference.cache
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.exe
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe.config
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.exe
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\bin\Debug\ColegioHerencia.pdb
+E:\primer bimestre\prog2\ColegioHerencia\ColegioHerencia\obj\Debug\ColegioHerencia.pdb

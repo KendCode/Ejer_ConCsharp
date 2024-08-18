@@ -1,0 +1,12 @@
+E:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.csprojResolveAssemblyReference.cache
+E:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.exe.config
+E:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.exe
+E:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.pdb
+E:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.exe
+E:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.pdb
+F:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.exe.config
+F:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.exe
+F:\primer bimestre\prog2\figgeo\figgeo\bin\Debug\figgeo.pdb
+F:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.csprojResolveAssemblyReference.cache
+F:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.exe
+F:\primer bimestre\prog2\figgeo\figgeo\obj\Debug\figgeo.pdb
